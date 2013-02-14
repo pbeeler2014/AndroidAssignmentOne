@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
 	private static final String TAG = "MainActivity";
 	
 	Button button;
-	
+	//Step-by-Step video comment
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
